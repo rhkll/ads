@@ -1,0 +1,1 @@
+import{_ as e,c as o,a as s,o as n}from"./index-Cu0EYj2Q.js";const a=""+new URL("404-zLp_b-tD.png",import.meta.url).href,r={name:"404"},c={class:"not-found"};function _(p,t,d,i,l,f){return n(),o("div",c,t[0]||(t[0]=[s("img",{src:a,alt:"404 Not Found",style:{width:"100%",height:"100%"}},null,-1)]))}const u=e(r,[["render",_],["__scopeId","data-v-4f491628"]]);export{u as default};
